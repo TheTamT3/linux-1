@@ -1,0 +1,27 @@
+.one {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+  background: green;
+  position: absolute;
+}
+.two {
+  position: absolute;
+  top: 20px;
+  left: 800px;
+  width: 100px;
+  height: 100px;
+  background: blue;
+  position: absolute;
+}
+.three {
+  position: relative;
+  top: 20px;
+  left: 600px;
+  width: 100px;
+  height: 100px;
+  background: green;
+  position: absolute;
+}
